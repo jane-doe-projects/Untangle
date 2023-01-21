@@ -1,0 +1,119 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: SettingsTable_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: eeddb64b9a3b03948aaf9d4bfcc54ab6, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 62283816960
+    m_Localized: Audio & UI Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 373031411712
+    m_Localized: Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 348477956096
+    m_Localized: Resolution
+    m_Metadata:
+      m_Items: []
+  - m_Id: 325069545472
+    m_Localized: Screen Mode
+    m_Metadata:
+      m_Items: []
+  - m_Id: 301111681024
+    m_Localized: Auto load next level
+    m_Metadata:
+      m_Items: []
+  - m_Id: 275509649408
+    m_Localized: Show Level Details
+    m_Metadata:
+      m_Items: []
+  - m_Id: 255800614912
+    m_Localized: Effects
+    m_Metadata:
+      m_Items: []
+  - m_Id: 235122696192
+    m_Localized: Music
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5133889413120
+    m_Localized: Skin Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5421174071296
+    m_Localized: Change the colors of the game elements
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5636027293696
+    m_Localized: Default
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6053633171456
+    m_Localized: Pick a game element from above to set its color
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6241227612160
+    m_Localized: Orb
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6309317943296
+    m_Localized: Shades
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6374434512896
+    m_Localized: Line
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6530164826112
+    m_Localized: Background
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7737528786944
+    m_Localized: crossed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7956404346880
+    m_Localized: uncrossed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8017972535296
+    m_Localized: effect
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9444702789632
+    m_Localized: General Audio & UI Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30492835946496
+    m_Localized: Save changes?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30638227300352
+    m_Localized: Changes will reset in
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31272250875904
+    m_Localized: Keep changes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31340630614016
+    m_Localized: Revert changes
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

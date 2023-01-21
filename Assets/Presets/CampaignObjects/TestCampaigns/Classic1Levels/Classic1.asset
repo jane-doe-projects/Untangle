@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d7839707a6511d478f85462e3a42379, type: 3}
+  m_Name: Classic1
+  m_EditorClassIdentifier: 
+  descName: Classic 1
+  description: A bunch of simple puzzles with a low node count.
+  levels:
+  - {fileID: 11400000, guid: 36e23fc2fb42b0e458e5e189d6a693ad, type: 2}
+  - {fileID: 11400000, guid: 8298b6c4482d05d4b8ce2f3603c40faf, type: 2}
+  - {fileID: 11400000, guid: 2f783e89bc511f74182247ced383a261, type: 2}
+  - {fileID: 11400000, guid: d606e757b7cb14e48a947436e682717b, type: 2}
+  - {fileID: 11400000, guid: 5fc6ce68c3e5f49daa59f1b01f1f5293, type: 2}
+  difficulty: 0
+  isCampaign: 0
+  campaignId: 101

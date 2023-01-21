@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d7839707a6511d478f85462e3a42379, type: 3}
+  m_Name: Vanilla
+  m_EditorClassIdentifier: 
+  descName: Vanilla
+  description: Simple Classic Levels
+  levels:
+  - {fileID: 11400000, guid: 48a9132141f674978a58bfbf96fa102b, type: 2}
+  - {fileID: 11400000, guid: 7b53d4bc91eb649568e92a598f7af47f, type: 2}
+  - {fileID: 11400000, guid: c7ac5c32cbfd242dfab3c3638729897b, type: 2}
+  - {fileID: 11400000, guid: f7fb7034365b14cb08f642d9f9aebe13, type: 2}
+  - {fileID: 11400000, guid: cfc9e1e7b881e4548815cd43fb9588af, type: 2}
+  - {fileID: 11400000, guid: 823d6f8fb881b4d048cb1d2db459932d, type: 2}
+  - {fileID: 11400000, guid: 5afb6376190ec4ff78e11be6455e3018, type: 2}
+  - {fileID: 11400000, guid: ee071432937d44d2ea8733a3eed46ac6, type: 2}
+  - {fileID: 11400000, guid: b2ad71789842042a1bc77cebab5b3ec1, type: 2}
+  - {fileID: 11400000, guid: 869cc31b3de2a49ccbf6c46f769d087e, type: 2}
+  - {fileID: 11400000, guid: 17982d61c44fe42a4b399f282b181ca3, type: 2}
+  - {fileID: 11400000, guid: 9eaecf972683d4e6eb53b9714059bc23, type: 2}
+  - {fileID: 11400000, guid: 87211d10d0a2e4a09b68541083ac58ed, type: 2}
+  - {fileID: 11400000, guid: b406f325d4ad341bba6939a5cc9e190b, type: 2}
+  - {fileID: 11400000, guid: b016cebf099204a42bf37bc525861794, type: 2}
+  - {fileID: 11400000, guid: dbcd4b05f5b3c45e5b0e94fea1b61c5f, type: 2}
+  - {fileID: 11400000, guid: 78aebdc7556f04329b45b7ad975bcb82, type: 2}
+  - {fileID: 11400000, guid: 75b1f0f5cf5ae429fb06f6f95f028d49, type: 2}
+  - {fileID: 11400000, guid: 3d62bb94971fb486c82fc7408787b8bd, type: 2}
+  - {fileID: 11400000, guid: c3f6f9b93092b4267b12bf9cd4673ec1, type: 2}
+  - {fileID: 11400000, guid: ffe038a1663934fff836c8fc8f3aae94, type: 2}
+  - {fileID: 11400000, guid: 8de5d6c7ea5fb4eb1b00ba4862388554, type: 2}
+  - {fileID: 11400000, guid: c198e1180fbdf4ed9bda2a2c6e84e1ad, type: 2}
+  - {fileID: 11400000, guid: fe190d6e26069483596ddcc4c93ed182, type: 2}
+  - {fileID: 11400000, guid: 58772946df8a51a49a430c6b8ed590c8, type: 2}
+  - {fileID: 11400000, guid: 60d817930e02b8e41861f8545e0bb242, type: 2}
+  - {fileID: 11400000, guid: 37bc5a80e6e2a5c45ad5296fbfa712ee, type: 2}
+  - {fileID: 11400000, guid: a33b4e857efd67846b2c0ba3f3720971, type: 2}
+  - {fileID: 11400000, guid: 8690342ff3df6e141b9c9f26916fabf1, type: 2}
+  - {fileID: 11400000, guid: 42c6f37693bf7e34eb7f65fd3ec17e48, type: 2}
+  - {fileID: 11400000, guid: 4cb3d6b2cbd8e724fa9ba0acb2b0844f, type: 2}
+  - {fileID: 11400000, guid: 8b8477ae1f494c94da1dc639cc1b5450, type: 2}
+  - {fileID: 11400000, guid: 5bce2ca7272405c4c85c6b36f47aa3ee, type: 2}
+  - {fileID: 11400000, guid: e9f0eacbf1d5cbd49b809e7deafcae58, type: 2}
+  - {fileID: 11400000, guid: b7afde770647e9c49bac504af57f40ec, type: 2}
+  - {fileID: 11400000, guid: aa16e3a0b6ecebb4ea4e4f202c1b8324, type: 2}
+  - {fileID: 11400000, guid: 9d59d6620eabd8e4abb8111acba456ae, type: 2}
+  - {fileID: 11400000, guid: 2ba74f72884b8e04990b229fcc857040, type: 2}
+  - {fileID: 11400000, guid: 66330d79effd27143b9ee0c0d0866067, type: 2}
+  - {fileID: 11400000, guid: 70c573c196f9b7244b6680f397bcb2f3, type: 2}
+  - {fileID: 11400000, guid: f3c670209055ccb448f148aeda7ffb40, type: 2}
+  - {fileID: 11400000, guid: 7a1109289deb39f43a4fd0038f29a17b, type: 2}
+  - {fileID: 11400000, guid: 3caefe88841801e47ac1fb9507140281, type: 2}
+  - {fileID: 11400000, guid: 25a0cd82553979747b2ab050842dc722, type: 2}
+  - {fileID: 11400000, guid: 92dad3b22bce36c40b3a44cc7d7d8b84, type: 2}
+  - {fileID: 11400000, guid: 1ff38f94b337cad4596d316159270d1a, type: 2}
+  - {fileID: 11400000, guid: 42eaec766a3e1054085b09bded213be6, type: 2}
+  - {fileID: 11400000, guid: cf30046d999a2f64f8cd658c5f79eb44, type: 2}
+  - {fileID: 11400000, guid: 79f699f996e732f479cef9a0e41bcc49, type: 2}
+  - {fileID: 11400000, guid: ab9b1b7f600dda945a6c32973b794d8a, type: 2}
+  difficulty: 0
+  isCampaign: 1
+  campaignId: 9221

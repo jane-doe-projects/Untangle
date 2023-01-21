@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d7839707a6511d478f85462e3a42379, type: 3}
+  m_Name: Mirror
+  m_EditorClassIdentifier: 
+  descName: Mirror
+  description: Mirrored Puzzles
+  levels:
+  - {fileID: 11400000, guid: 754d1dcd846754efca0f30011e1e145a, type: 2}
+  - {fileID: 11400000, guid: a973b871e3d3c4bbe9519c0d7f28b4c4, type: 2}
+  - {fileID: 11400000, guid: d80d2a2ad4fad4509a0b4414e3cc6315, type: 2}
+  - {fileID: 11400000, guid: 9d0325b000aa74475a7354758f460546, type: 2}
+  - {fileID: 11400000, guid: 613f68b46efd44d03a35827d3bfd93a5, type: 2}
+  - {fileID: 11400000, guid: 060e1a357b9cb4910b8c8f65b0af9f15, type: 2}
+  - {fileID: 11400000, guid: d695a5967e9a74799ba112a396e8ef16, type: 2}
+  - {fileID: 11400000, guid: 34a9f9f43656a488cbe4911db92a1d2b, type: 2}
+  - {fileID: 11400000, guid: 76dde6b19c1314fdb8c2b3ac3c352a02, type: 2}
+  - {fileID: 11400000, guid: 9d53c745fb9de45319beac08e3b80c25, type: 2}
+  - {fileID: 11400000, guid: d7ba6fb1febf5439399736ae7dd41651, type: 2}
+  - {fileID: 11400000, guid: 783ed40d89f1643e48f77ae52f87607c, type: 2}
+  - {fileID: 11400000, guid: 647ffb41fe54a4d93b6bd0e9c91b12bf, type: 2}
+  - {fileID: 11400000, guid: 5ef23eb95bec54b0f880d2b52b6870b2, type: 2}
+  - {fileID: 11400000, guid: 545320b4779bb42d8bda994d0932dc4c, type: 2}
+  - {fileID: 11400000, guid: eb05d8fa43bca477e8a279cfe80248b4, type: 2}
+  - {fileID: 11400000, guid: 0cf37bb683b1048e09245c4a94cdde54, type: 2}
+  - {fileID: 11400000, guid: e6da4dc663a4e405fb3ecc49d8235033, type: 2}
+  - {fileID: 11400000, guid: 555335c0455114e4da20525baab15242, type: 2}
+  - {fileID: 11400000, guid: 5faaa743e87ad43149fad63f204b743b, type: 2}
+  - {fileID: 11400000, guid: c9668a37977124fab9cb057018336a70, type: 2}
+  - {fileID: 11400000, guid: db2302df873ee4eabab1a2a37714c163, type: 2}
+  - {fileID: 11400000, guid: 0f74f9e4fab0a4213adae538c870b47f, type: 2}
+  - {fileID: 11400000, guid: 9c81fc962f84e4d74aa7dba0beba6fa5, type: 2}
+  - {fileID: 11400000, guid: d740fd1b4a296354abe7842c3dd967b5, type: 2}
+  - {fileID: 11400000, guid: 26fa75dd1ced647ac900979141bbabf8, type: 2}
+  - {fileID: 11400000, guid: db6032afc0eb17744abe55e729d18e93, type: 2}
+  - {fileID: 11400000, guid: 25fd2adce2c4a75409c2f6829cc8f685, type: 2}
+  - {fileID: 11400000, guid: eb9f02030cab0d44cbebbce602621dbd, type: 2}
+  - {fileID: 11400000, guid: 78c07ca9682c09147a0dcbe29ef4e8ce, type: 2}
+  - {fileID: 11400000, guid: 6ae4f921be18d7e4d95ad63bc3ae534f, type: 2}
+  - {fileID: 11400000, guid: 8dddfd3b2adebbc4f88e57dd55c1ea6a, type: 2}
+  - {fileID: 11400000, guid: f65198eb9e0d5c34f93473da082427d8, type: 2}
+  - {fileID: 11400000, guid: 508f95dc89df0b445a5e8e2510ef05d3, type: 2}
+  - {fileID: 11400000, guid: ea7c49fb75437f94cbe493cde07bb6a0, type: 2}
+  - {fileID: 11400000, guid: 8c67a40c35a981d4a8fc64c58117e5b3, type: 2}
+  - {fileID: 11400000, guid: 17e6f0555e7560241877f050c26353db, type: 2}
+  - {fileID: 11400000, guid: 2a4457c01bbe5d44f8e13b50d0ca645f, type: 2}
+  - {fileID: 11400000, guid: 3c48b4268f6d0e04e988d6d1c9697940, type: 2}
+  - {fileID: 11400000, guid: 178df07f2ef14384fa3df2aa7edd67bd, type: 2}
+  - {fileID: 11400000, guid: adaac8bed4ea4d142b2c39fd153bc214, type: 2}
+  - {fileID: 11400000, guid: c07e7d874fa22ba4889186d538331ffe, type: 2}
+  - {fileID: 11400000, guid: 3a37d06d44ce77b40836cc994b68f374, type: 2}
+  - {fileID: 11400000, guid: f39f556294df45249b1be74fe41451b5, type: 2}
+  - {fileID: 11400000, guid: 40a5bfa5e402ea346a0af6bd9772efc8, type: 2}
+  - {fileID: 11400000, guid: c50650086171a7d418f7889a1e338efe, type: 2}
+  - {fileID: 11400000, guid: e28b61e9dd9cb224783507c801bb6895, type: 2}
+  - {fileID: 11400000, guid: de53907175a130d418114e905f21ce38, type: 2}
+  - {fileID: 11400000, guid: 3d84f2fcec915bf4e85f37628a8735b4, type: 2}
+  - {fileID: 11400000, guid: da41c6b02ba857443a9b93179fe0ffa7, type: 2}
+  difficulty: 0
+  isCampaign: 1
+  campaignId: 9222

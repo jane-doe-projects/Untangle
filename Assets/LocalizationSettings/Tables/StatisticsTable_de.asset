@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: StatisticsTable_de
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: de
+  m_SharedData: {fileID: 11400000, guid: f6c88500a0dffd4439eeea60675a3561, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 5601196323891052733
+  m_TableData:
+  - m_Id: 7401349120
+    m_Localized: Statistik
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64221585408
+    m_Localized: Aufgezeichnet seit {recordingDate}
+    m_Metadata:
+      m_Items:
+      - rid: 5601196323891052733
+  - m_Id: 252386451456
+    m_Localized: Klassischer Modus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 323236634624
+    m_Localized: Kampagnen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 368258293760
+    m_Localized: Favoriten
+    m_Metadata:
+      m_Items: []
+  - m_Id: 471488503808
+    m_Localized: "Zur\xFCcksetzen"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 5601196323891052733
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 00a0e7f30e000000

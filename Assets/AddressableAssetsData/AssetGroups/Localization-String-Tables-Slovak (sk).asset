@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-String-Tables-Slovak (sk)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-String-Tables-Slovak (sk)
+  m_Data:
+    m_SerializedData: []
+  m_GUID: a45a8ba0dca8fe346bc6a308eb4083f7
+  m_SerializeEntries:
+  - m_GUID: df5e582099bd7554aa675e897609aa8b
+    m_Address: DefaultTable_sk
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-sk
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ec1b675c13ef61c42a51887a1ba5e8db
+    m_Address: ModesTable_sk
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-sk
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 863b5058c01b82f44ac609ee1b697468
+    m_Address: ExitTable_sk
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-sk
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d4c84ec60d8deae47b4edbc371232fcf
+    m_Address: StatisticsTable_sk
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-sk
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2a338718032950a42b56c060b321815f
+    m_Address: CampaignTable_sk
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-sk
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fac7596387586034fbf5975e86abc0b5
+    m_Address: FavoritesTable_sk
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-sk
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d89ee645b187b5e4a841d5a3f21de034
+    m_Address: GameplayTable_sk
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-sk
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fdd44f71f7a1722498d7f22160e7719f
+    m_Address: SettingsTable_sk
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-sk
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: c16119728bc3af944ba77100947b4ebc, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: b03ebd4351d3cb443a030c289752c8e6, type: 2}
+    - {fileID: 11400000, guid: ad078567445de304f9c27227886a19e3, type: 2}

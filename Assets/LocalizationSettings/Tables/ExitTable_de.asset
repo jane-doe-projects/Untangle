@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: ExitTable_de
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: de
+  m_SharedData: {fileID: 11400000, guid: 0e47bd6be0b83a94b8f0d37528d69dc6, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 8726749184
+    m_Localized: Spiel beenden?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74233389056
+    m_Localized: Willst du das Spiel beenden?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 163110690816
+    m_Localized: Ja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 197684338688
+    m_Localized: Nein
+    m_Metadata:
+      m_Items: []
+  - m_Id: 223999401984
+    m_Localized: Level beim Beenden speichern
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

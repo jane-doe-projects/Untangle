@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39dc5932a9c974d4b99d38f673c2db0b, type: 3}
+  m_Name: Boxed
+  m_EditorClassIdentifier: 
+  type: 0
+  successor: {fileID: 11400000, guid: f3f5c1a8d4de73544bf79423ecf442a0, type: 2}
+  bestTime: 18.228214
+  fewestClicks: 4
+  id: 2
+  cId: 0
+  fId: 0
+  descName: Boxed
+  nodeSetsCoordinates:
+  - coordsForSet:
+    - {x: 14, y: 7}
+    - {x: -14, y: 7}
+    - {x: 14, y: -7}
+    - {x: -14, y: -7}
+    - {x: 14, y: 0}
+    - {x: -14, y: -1}
+  - coordsForSet:
+    - {x: 0, y: 7}
+    - {x: 0, y: -7}
+    - {x: 0, y: -1}

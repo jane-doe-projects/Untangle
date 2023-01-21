@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: GameplayTable Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: GameplayTable
+  m_TableCollectionNameGuidString: 45019f00cd94a9b44971ec0002d361cb
+  m_Entries:
+  - m_Id: 7241965568
+    m_Key: time
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86929547264
+    m_Key: moves
+    m_Metadata:
+      m_Items: []
+  - m_Id: 124611174400
+    m_Key: revert
+    m_Metadata:
+      m_Items: []
+  - m_Id: 353192353792
+    m_Key: save
+    m_Metadata:
+      m_Items: []
+  - m_Id: 403561750528
+    m_Key: pause
+    m_Metadata:
+      m_Items: []
+  - m_Id: 916537712640
+    m_Key: continue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1228858171392
+    m_Key: bestTime
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1276845203456
+    m_Key: best moves
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1445498167296
+    m_Key: levelSaved
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 5601196323891052736
+  references:
+    version: 2
+    RefIds:
+    - rid: 5601196323891052736
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1663513886501

@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: CampaignTable_de
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: de
+  m_SharedData: {fileID: 11400000, guid: 6a2c7daf342cd88419cb99b2ad598aea, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 6642180096
+    m_Localized: '{unlocked} Level freigeschaltet'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 335484002304
+    m_Localized: Gruppen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 431177048064
+    m_Localized: Knoten
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3128907243520
+    m_Localized: Kampagne abgeschlossen
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

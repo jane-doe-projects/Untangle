@@ -1,0 +1,51 @@
+Credits & Licenses
+External Sources
+
+--------------------------------------------------------
+Sound Effects:
+
+Menu Selection Click - Nenad Simic
+https://audiojungle.net/user/nenadsimic?ref=NenadSimic
+https://opengameart.org/content/menu-selection-click
+CC-BY 3.0
+----
+
+UI and Item Sound Effects - ViRiX
+soundcloud.com/virix
+https://opengameart.org/content/ui-and-item-sound-effect-jingles-sample-2
+CC-BY 3.0
+----
+
+UI Sounds - StumpyStrust
+https://opengameart.org/content/ui-sounds
+Public Domain CC0
+
+FreeSFX - Kronbits
+https://kronbits.itch.io/freesfx
+Public Domain CC0
+
+--------------------------------------------------------
+Audio Themes:
+
+Bamboo Forest - Marcelo Fernandez
+https://soundcloud.com/marcelofernandezmusic
+https://opengameart.org/content/bamboo-forest
+CC BY 3.0
+----
+
+Beautiful Forest Orchestra - Nene
+https://opengameart.org/content/beautiful-forest-orchestra
+Public Domain CC0
+----
+
+Space Gras - Tsorthan Grove
+https://linktr.ee/tsorthan_grove
+https://opengameart.org/content/space-gras
+CC-BY 4.0
+
+--------------------------------------------------------
+Visual Effects:
+
+Blur Shader - Denis Szwarc
+https://www.youtube.com/watch?v=YKTjVACAfqE
+Creative Commons Attribution License

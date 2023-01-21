@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39dc5932a9c974d4b99d38f673c2db0b, type: 3}
+  m_Name: C2_L2
+  m_EditorClassIdentifier: 
+  descName: Simple 2
+  nodeSetsCoordinates:
+  - coordsForSet: []
+  - coordsForSet:
+    - {x: -14, y: 7}
+    - {x: 14, y: 4}
+    - {x: -13, y: -7}
+    - {x: 4, y: 1}
+    - {x: 15, y: -7}
+  - coordsForSet:
+    - {x: 14, y: 0}
+    - {x: -14, y: -4}
+    - {x: -8, y: 5}
+    - {x: -1, y: -6}
+  - coordsForSet:
+    - {x: 10, y: 7}
+    - {x: -16, y: -3}
+    - {x: 10, y: -6}
+    - {x: 2, y: -8}
